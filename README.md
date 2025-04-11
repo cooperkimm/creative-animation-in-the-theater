@@ -19,13 +19,13 @@ Use your knowledge of object-oriented programming, data structures, and algorith
 
 Link the Trello board that you used to plan this project here. 
 
-[My Trello planning board](https://link-url-here.org)
+[My Trello planning board](https://trello.com/b/b6Fc4qSZ/unit-7-project-planning)
 
 ## UML Diagram
 
 Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one word, otherwise it might not properly get display on this README.
 
-![UML Diagram for my project](nameOfImageFileHere.png)
+![UML Diagram for my project](https://github.com/user-attachments/assets/19d4c1b3-f979-428f-afa7-58c5b5c2f92c)
 
 ## Video
 
@@ -37,8 +37,10 @@ Record a short video of your project to display here on your README. You can do 
 - Upload the thumbnail image to your repo.
 - Use the following markdown code:
 
-[![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
+![Thumbnail for my projet](https://github.com/user-attachments/assets/f02385b5-ce6a-45bb-9a7c-72c00b2d204e)(https://youtu.be/scGh32aNqHA)
 
 ## Project Description
 
 Write a description the personal interest or problem that your animation addresses. Then explain the user story(s) you identified, and how they help frame making your animation.
+
+A personal interest that our animation addresses is the National Football League free agency market. I am interested in the free agency market and how trades occur in the National Football League. Our animation helps users pick a team and position. It then outputs this team, position, and a random player through an animation. Our animation gives users the role of a general manager and allows them to simulate the free agent market.
