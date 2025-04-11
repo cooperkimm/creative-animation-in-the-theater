@@ -1,0 +1,5 @@
+"Trumpet Sound Clip" found at https://www.wavsource.com/snds_2020-10-01_3728627494378403/sfx/trumpet_x.wav
+AI was used to help create constructors in myStory and Scenetwo class
+AI was also used to help create randomIndex variable in Scenethree class
+AI was finally used to help debug the error in our TheaterRunner.java 
+(error: Scenetwo sceneTwo = new Scenetwo(responsesUser), wrote this line of code after System.out.println(sceneTwo);)
